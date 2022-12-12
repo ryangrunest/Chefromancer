@@ -22,4 +22,4 @@ When all of the ingredients and items have been collected, you must head to the 
 
 ## Game Map
 
-<img src="./game_map.png" width="100%" />
+<img src="https://github.com/ryangrunest/Chefromancer/blob/main/game_map.png?raw=true" width="100%" />
