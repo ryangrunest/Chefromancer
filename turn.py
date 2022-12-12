@@ -123,7 +123,7 @@ def display_player_items(state):
 def attempt_to_bake_cake(state):
     # it doesn't matter if there is more than one item, we just need one of each
     player_found_items = {**state["player_items"], **state["kitchen_stored_items"]}
-    if len(player_found_items) > 11:  # total item count in game, player found all items
+    if len(player_found_items) >= 11:  # total item count in game, player found all items
         # bake the cake
         print("You whip up the best tiramisu you've ever made.")
         time.sleep(2)
