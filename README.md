@@ -19,3 +19,7 @@ The evil Chefromancer has cast a spell on the guests of your dinner party. Beste
 You can only hold 5 items at a time, but you can store 8 items in the kitchen. By storing the items in the kitchen, they are safe from the Chefromancer if you are caught.
 
 When all of the ingredients and items have been collected, you must head to the kitchen to make the cake, and then go to the dining room to surprise the Chefromancer with your tasty tiramisu. If you create your cake without the correct ingredients, it uses all the ingredients. If you run out of available ingredients, you lose the game. After tasting your dessert delicacy his culinary ego will be destroyed, along with his powerful spell over your guests.
+
+## Game Map
+
+<img src="./game_map.png" width="100%" />
