@@ -152,7 +152,7 @@ room_attributes = {
     },
     "Yard": {
         "items": [
-            {"Eggs": random_between_one_five()}
+            {"Egg": random_between_one_five()}
         ],
         "Navigation": {
             "North": "Entryway",
@@ -163,8 +163,8 @@ room_attributes = {
     },
     "Pantry": {
         "items": [
-            {"Eggs": 1},
-            {"Ladyfinger Cookies": random_between_one_five()},
+            {"Egg": 1},
+            {"Ladyfinger Cookie": random_between_one_five()},
             {"Sugar": random_between_one_five()}
         ],
         "Navigation": {

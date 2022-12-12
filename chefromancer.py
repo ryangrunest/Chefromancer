@@ -35,3 +35,13 @@ def check_chefromancer_roll(state):
         return True
     else:
         return False
+
+
+def enough_items_in_game(state):
+    for room in state["rooms"]:
+        for item in room.items:
+            x = item.values()
+            for val in x:
+                if val < 1:
+                    return False
+    return True
